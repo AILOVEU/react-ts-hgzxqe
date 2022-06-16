@@ -1,0 +1,9 @@
+export { default as ComponentComp } from './component';
+export { default as ForwardRefComp } from './forwardref';
+export { default as FragmentComp } from './fragment';
+export { default as LazyComp } from './lazy';
+export { default as MemoComp } from './memo';
+export { default as ProfilerComp } from './profiler';
+export { default as PureComponentComp } from './purecomponent';
+export { default as StricModeComp } from './stricmode';
+export { default as SuspenseComp } from './suspense';
